@@ -6,6 +6,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IhorKytsak&hide=stars&show_icons=true&hide_border=false&bg_color=00000000" />
+ <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IhorKytsak&hide=stars&show_icons=true&hide_border=true" />
 
 </details>
