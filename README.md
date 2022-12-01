@@ -16,12 +16,12 @@
 
 <details>
 <summary>Click to Expand!</summary>
-
- <img alt="IhorKytsak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IhorKytsak&hide=stars&show_icons=true&hide_border=true" />
  
- <br />
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IhorKytsak&hide=stars)
  
- <img alt="IhorKytsak GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhorKytsak&layout=compact" />
+  <br />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhorKytsak&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
