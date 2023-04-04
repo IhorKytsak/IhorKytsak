@@ -83,4 +83,5 @@
  
 </details>
 
-https://www.codewars.com/users/IhorKytsak/badges/large
+![Codewars](https://www.codewars.com/users/IhorKytsak/badges/large)
+
